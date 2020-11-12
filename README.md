@@ -8,3 +8,6 @@ This C++ wrapper serves a starting point for integrating FMOD Studio with a game
 - Loading and unloading bank metadata / sample data  
 - Pausing, unpausing and stopping events routed to specific mixer busses, e.g. for pause menu implementation purposes.
 - Programmer sound / audio table hookup for implementing a localized dialogue system 
+
+ Third party dependencies: 
+ - FMOD Studio API version 2.01.04 (Copyright (c) Firelight Technologies, Pty, Ltd, 2011-2020)
