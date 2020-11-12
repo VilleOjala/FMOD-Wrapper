@@ -1,3 +1,5 @@
+MIT License
+Copyright (c) 2020 Ville Ojala
 
 #include "main.h"
 
